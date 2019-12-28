@@ -2,7 +2,7 @@
     "name": "magepratik/module-test",
     "description": "Test Module.",
     "type": "magento2-module",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
@@ -10,6 +10,7 @@
             "email": "magepratik@gmail.com"
         }
     ],
+    "minimum-stability": "alpha",
     "autoload": {
         "files": [
           "registration.php"
