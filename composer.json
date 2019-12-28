@@ -1,0 +1,21 @@
+{
+    "name": "magepratik/module-test",
+    "description": "Test Module.",
+    "type": "magento2-module",
+    "version": "1.0.3",
+    "license": "GNU General Public License 3.0 (GPL-3.0)",
+    "authors": [
+        {
+            "name": "Pratik Oza",
+            "email": "magepratik@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+          "registration.php"
+        ],
+        "psr-4": {
+          "Magepratik\\Test\\": ""
+        }
+    }
+}
