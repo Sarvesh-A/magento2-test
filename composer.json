@@ -10,7 +10,7 @@
             "email": "magepratik@gmail.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "autoload": {
         "files": [
           "registration.php"
